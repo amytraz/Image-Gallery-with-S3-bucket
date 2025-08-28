@@ -1,4 +1,4 @@
-Here’s a polished **README.md** for your project **Visual Archive**:
+
 
 ````markdown
 # 📸 Visual Archive  
@@ -30,7 +30,7 @@ This project demonstrates how to integrate **Flask** with **Amazon S3**, manage 
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/visual-archive.git
+git clone https://github.com/amytraz/Image-Gallery-with-S3-bucket.git
 cd visual-archive
 ````
 
