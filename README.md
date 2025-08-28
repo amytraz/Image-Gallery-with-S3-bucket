@@ -97,7 +97,3 @@ visual-archive/
 
 **Visual Archive** was built with ❤️ using Flask and AWS.
 
-```
-
-Would you like me to also **add example screenshots placeholders with HTML templates** (like a preview grid for uploaded images), so your README looks even more professional?
-```
